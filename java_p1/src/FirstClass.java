@@ -1,8 +1,12 @@
 public class FirstClass {
     static int a = 4;
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println(a);
-        //this is comments
+    public void getData() {
+        System.out.println("I'm in method");
     }
+    public static void main(String[] args) {
+//        System.out.println("Hello World!");
+
+
+    }
+
 }

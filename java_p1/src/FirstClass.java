@@ -6,7 +6,7 @@ public class FirstClass {
     public static void main(String[] args) {
         FirstClass fn = new FirstClass();
         fn.getData();
-//        System.out.println("Hello World!");
+//        System.out.println(fn.a);
 
 
     }

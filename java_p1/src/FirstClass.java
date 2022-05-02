@@ -8,9 +8,6 @@ public class FirstClass {
         fn.getData();
         SecondClass sn = new SecondClass();
         sn.setData();
-//        System.out.println(fn.a);
-
-
     }
 
 }
